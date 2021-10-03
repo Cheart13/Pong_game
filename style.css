@@ -1,0 +1,13 @@
+.container {
+	display: flex;
+	justify-content: center;
+}
+
+#canvas {
+	width: 400px;
+	height: 400px;
+	display: block;
+	border: 2px solid black;
+	margin: 40px;
+	background-color: rgb(81, 235, 81);
+}
